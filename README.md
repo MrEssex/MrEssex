@@ -11,7 +11,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=MrEssex&show_icons=true&theme=tokyonight&hide_border=true&locale=en"/>
     </td>
     <td colspan="2" style="border: none">
-      <img src="https://github-readme-streak-stats.demolab.com/?user=MrEssex&theme=tokyonight&hide_border=true"/>
+      <img src="https://streak-stats.demolab.com/?user=MrEssex&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
 </table>
