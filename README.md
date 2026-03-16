@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kyle Essex</h1>
+<h1>Hi 👋, I'm Kyle</h1>
 
 <p align="center">
-  Web Developer focused on <b>PHP</b>, <b>TypeScript</b>, <b>Sass</b> and backend systems.
+  Web Developer focused on <b>GO</b>, <b>PHP</b>, <b>TypeScript</b>, <b>Sass</b> and backend systems.
 </p>
 
 <p align="center">
@@ -35,7 +35,6 @@
 - ⚙️ Backend systems and APIs
 - 🧱 Developer tooling
 - ☁️ Self-hosted infrastructure
-- 🎮 Game server platforms
 
 ---
 
